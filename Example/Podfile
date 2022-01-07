@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JCNetworking_Example' do
+  pod 'JCNetworking', :path => '../'
+
+  target 'JCNetworking_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

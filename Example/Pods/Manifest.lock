@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JCNetworking (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JCNetworking (from `../`)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JCNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JCNetworking: 109751d0e6101c808da90fc5e3a9e06fe741d531
+
+PODFILE CHECKSUM: c2bc0947a8d7663b00a72d355f02518918c0e85c
+
+COCOAPODS: 1.11.2

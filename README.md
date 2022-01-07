@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JCNetworking
 
 [![CI Status](https://img.shields.io/travis/mafuyuan/JCNetworking.svg?style=flat)](https://travis-ci.org/mafuyuan/JCNetworking)
@@ -27,3 +28,6 @@ mafuyuan, 937088546@qq.com
 ## License
 
 JCNetworking is available under the MIT license. See the LICENSE file for more info.
+=======
+# JCNetworking
+>>>>>>> 8af21f647c2be7b5974304621d053e67d5796b10
